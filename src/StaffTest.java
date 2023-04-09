@@ -9,7 +9,7 @@ public class StaffTest {
             System.out.println(
                     "1.Thêm nhân viên toàn full-time.\n"
                             +"2.Thêm nhân viên part-time \n"
-                            +"3.Hiển thị danh sách sinh viên\n"
+                            +"3.Hiển thị danh sách nhân viên\n"
                             +"4.Lương trung bình cả công ty.\n"
                             +"5.Danh sách toàn nv Fulltime lương thấp hơn lương trung bình.\n"
                             +"6.Tổng lương trả cho nhân viên part-time\n"
