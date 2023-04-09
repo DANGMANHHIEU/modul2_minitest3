@@ -56,7 +56,7 @@ public class menu {
         partTimeStaff partTime = new partTimeStaff(code,name,age,phone,email,addressHome,hourWorking,money1hour);
         List.addStaff(partTime);
     }
-    // hiểnthijij danh sách sinh viên
+    // hiểnthijij danh sách nhan viên
     public static void display(){
         List.renderStaff();
     }
